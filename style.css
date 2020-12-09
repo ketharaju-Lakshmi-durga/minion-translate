@@ -20,10 +20,10 @@
     :root {
         --black:#ffff1a;
         --width-break:400px;
-        --width:#ffffff;
+        --width:#000000;
     }
     #outhead{
-        color:black;
+        color:#black;
     }
     main {
         margin: auto;
@@ -68,6 +68,7 @@
     overflow:scroll;
     border: 1px solid var(--width);
     background: rgb(255, 255, 255,0.5);
+    color:black;
         
     }
     footer {
