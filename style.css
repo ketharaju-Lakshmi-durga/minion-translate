@@ -82,6 +82,7 @@
         max-width: var(--width-break);
     margin: auto;
     background-color:#ffff1a;
+    padding:1rem;
 
         color:black;
     }
@@ -173,5 +174,6 @@ footer p {
     background-color:#F59E0B;
     margin: auto;
     color:white;
+    padding:1rem;
 }
 }
