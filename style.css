@@ -15,12 +15,15 @@
          padding: 1rem; 
          background-color:#ffff1a;
          text-align:center;
-         color:white;
+         color:black;
     }
     :root {
         --black:#ffff1a;
         --width-break:400px;
         --width:#ffffff;
+    }
+    #outhead{
+        color:black;
     }
     main {
         margin: auto;
@@ -71,7 +74,7 @@
         bottom: 0;
         width: 100%;
         padding: 1rem;
-        text-align: center;
+        text-align: left;
         color:#ffff1a;
     }
     footer p {
