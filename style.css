@@ -75,7 +75,7 @@
         width: 100%;
         padding: 1rem;
         text-align: left;
-        color:#ffff1a;
+        color:black;
     }
     footer p {
         max-width: var(--width-break);
